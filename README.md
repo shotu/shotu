@@ -61,15 +61,6 @@ Infrastructure for testing, simulating, and monitoring GenAI behavior across:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shotu&show_icons=true&theme=github_dark&cache_seconds=60)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shotu&layout=compact&theme=github_dark&cache_seconds=60)
-
-
----
-
 ## 🧩 Engineering Philosophy
 
 - Systems > Hacks  
