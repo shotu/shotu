@@ -59,15 +59,6 @@ Infrastructure for testing, simulating, and monitoring GenAI behavior across:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-## 🧩 Engineering Philosophy
-
-- Systems > Hacks  
-- Production > Prototypes  
-- Observability by Default  
-- Security as a Primitive  
-- AI must be Testable  
 
 ---
 
